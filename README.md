@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Deepanshu Sahu's Profile</title>
-    <style>
-        .icon {
-            background-color: black;
-        }
-    </style>
-</head>
-<body>
-
 <h1 align="center">Hi 👋, I'm Deepanshu Sahu</h1>
 <h3 align="center">I'm a passionate software developer with experience in backend and frontend technologies. I have a positive attitude, a love for tech, and am eager to grow and tackle new challenges. My recent projects and roles have deepened my expertise in Python, Django, React, and more.</h3>
 
@@ -34,7 +20,7 @@ Thank you for visiting my profile!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/deepanshu-sahu-1a14151a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-sahu-1a14151a8" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/dee777" target="blank"><img class="icon" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dee777" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/dee777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dee777" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/deepanshu_sahu27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepanshu_sahu27" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/dee_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dee_777" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/dee777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dee777" height="30" width="40" /></a>
@@ -74,7 +60,4 @@ Thank you for visiting my profile!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
 </p>
-
-</body>
-</html>
 
