@@ -2,7 +2,9 @@
 
 ```json
 {
-  "description": "I'm a passionate software developer with experience in backend and frontend technologies. I have a positive attitude, a love for tech, and am eager to grow and tackle new challenges. My recent projects and roles have deepened my expertise in Python, Django, React, and more."
+  "description": "I'm a passionate software developer with experience in backend and frontend technologies.
+  I have a positive attitude, a love for tech, and am eager to grow and tackle new challenges. My recent projects
+  and roles have deepened my expertise in Python, Django, React, and more."
 }
 ```
 
@@ -19,7 +21,9 @@
 <br/> 
 
 ```json
-  "lookingFor": "💡 I'm Currently Looking For I am actively seeking new opportunities to contribute to innovative projects and grow my skills. If you have a role or project that aligns with my background, feel free to reach out!"
+  "lookingFor": "💡 I'm Currently Looking For I am actively seeking new opportunities to contribute to
+   innovative projects and grow my skills. If you have a role or project that aligns with my background,
+   feel free to reach out!"
 ```
 
 <br/>
