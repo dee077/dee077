@@ -9,11 +9,6 @@
 
 <br>
 
-💡 **I'm Currently Looking For**
-I am actively seeking new opportunities to contribute to innovative projects and grow my skills. If you have a role or project that aligns with my background, feel free to reach out!
-
-<br/>
-
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
@@ -39,6 +34,9 @@ I am actively seeking new opportunities to contribute to innovative projects and
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
+
+- 💡 **I'm Currently Looking For** opportunities to contribute to innovative projects and grow my skills. If you have a  
+  role or project that aligns with my background, feel free to reach out!
 
 - 🔭 I’m currently working on [Code_Complier](https://github.com/dee077/Code_Compiler)
 
