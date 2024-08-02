@@ -104,4 +104,4 @@ I am actively seeking new opportunities to contribute to innovative projects and
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Deepanshu Sahu</a></p>
+<p align="right" > Created with 🧡 by <a href="https://deepanshu-sahu-portfolio.netlify.app/">Deepanshu Sahu</a></p>
