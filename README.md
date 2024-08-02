@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Sahu</h1>
-<h3 align="center">I'm a passionate software developer with experience in backend and frontend technologies. I have a positive attitude, a love for tech, and am eager to grow and tackle new challenges. My recent projects and roles have deepened my expertise in Python, Django, React, and more.</h3>
+<h3 align="center">I'm a passionate software developer with experience in backend and frontend technologies. I have a positive attitude, a love for tech, and am eager to grow and tackle new challenges. My recent projects and roles have deepened my expertise in Python, Django, React, and more.</h3> <br/>
 
 - 🔭 I’m currently working on **[Foodzy](https://food-app.deepanshu-sahu-projects.live/)**
 - 🌱 I’m currently learning **React, Django, Docker**
@@ -7,6 +7,8 @@
 - 🤝 I’m looking for help with **[Online Judge](https://github.com/dee077/online-judge)**
 - 💬 Ask me about **React, Django, Docker**
 - 📫 How to reach me **deepanshu.sahu2811@gmail.com**
+
+ <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +20,8 @@
 <a href="https://www.hackerearth.com/deepanshu.sahu27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="deepanshu.sahu27" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/deepanshusahu27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deepanshusahu27" height="30" width="40" /></a>
 </p>
+
+ <br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
