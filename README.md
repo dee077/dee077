@@ -3,11 +3,10 @@
 
 <br/>
 
-- 🔭 I’m currently working on [Test](test)
+- 🔭 I’m currently working on [Code Complier]([test](https://github.com/dee077/Code_Compiler))
 - 🌱 I’m currently learning **React, Django, Docker**
-- 👯 I’m looking to collaborate on [test](test)
-- 💬 Ask me about **React, Django, Docker**
 - 📫 How to reach me **deepanshu.sahu2811@gmail.com**
+- 💬 Ask me about **React, Django, Docker**
 
 <br/>
 
