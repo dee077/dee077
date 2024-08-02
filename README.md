@@ -31,7 +31,7 @@ I am actively seeking new opportunities to contribute to innovative projects and
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<br><br><br>
+<br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
