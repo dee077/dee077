@@ -1,21 +1,33 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Sahu</h1>
-<h3 align="center">I'm a passionate software developer with experience in backend and frontend technologies. I have a positive attitude, a love for tech, and am eager to grow and tackle new challenges. My recent projects and roles have deepened my expertise in Python, Django, React, and more.</h3>
+
+```json
+{
+  "description": "I'm a passionate software developer with experience in backend and frontend technologies. I have a positive attitude, a love for tech, and am eager to grow and tackle new challenges. My recent projects and roles have deepened my expertise in Python, Django, React, and more."
+}
+```
 
 <br/>
 
-- 🔭 I’m currently working on [Code_Complier](https://github.com/dee077/Code_Compiler)
-- 🌱 I’m currently learning **React, Django, Docker**
-- 📫 How to reach me **deepanshu.sahu2811@gmail.com**
-- 💬 Ask me about **React, Django, Docker**
+```json
+{
+  "currentlyWorkingOn": "🔭 I’m currently working on Code_Complier",
+  "currentlyLearning": "🌱 I’m currently learning React, Django, Docker",
+  "contact": "📫 How to reach me deepanshu.sahu2811@gmail.com",
+  "askMeAbout": "💬 Ask me about React, Django, Docker",
+```
+
+<br/> 
+
+```json
+  "lookingFor": "💡 I'm Currently Looking For I am actively seeking new opportunities to contribute to innovative projects and grow my skills. If you have a role or project that aligns with my background, feel free to reach out!"
+```
 
 <br/>
 
-💡 **I'm Currently Looking For**
-I am actively seeking new opportunities to contribute to innovative projects and grow my skills. If you have a role or project that aligns with my background, feel free to reach out!
-
-<br/>
-
-Thank you for visiting my profile!
+```json
+  "thankYou": "Thank you for visiting my profile!"
+}
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
