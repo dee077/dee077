@@ -3,7 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Deepanshu Sahu</h1>
 
-<p align="center" style="margin:15%;">I'm a passionate software developer with experience in backend and frontend technologies. I have a positive attitude, a love for tech, and am eager to grow and tackle new challenges. My recent projects and roles have deepened my expertise in Python, Django, React, and more 🛠️</p>
+<div align="center" style="max-width: 800px; margin: auto;">
+  <p>I'm a passionate software developer with experience in backend and frontend technologies. I have a positive attitude, a love for tech, and am eager to grow and tackle new challenges. My recent projects and roles have deepened my expertise in Python, Django, React, and more 🛠️</p>
+</div>
 
 <br>
 
@@ -102,4 +104,4 @@ I am actively seeking new opportunities to contribute to innovative projects and
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Deepanshu Sahu</a></p>
