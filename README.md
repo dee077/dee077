@@ -40,9 +40,9 @@
 - 💡 **I'm Currently Looking For** opportunities to contribute to innovative projects and grow my skills. If you have a  
   role or project that aligns with my background, feel free to reach out!
 
-- 🔭 I’m currently working on [Code_Complier](https://github.com/dee077/Code_Compiler)
+- 🔭 I’m currently contributing on [OpenWisp](https://github.com/openwisp)
 
-- 🌱 I’m currently learning **Devops, Backend**
+- 🌱 I’m currently learning **DevOps, Backend**
 
 - 📫 How to reach me **deepanshu.sahu2811@gmail.com**
 
