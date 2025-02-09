@@ -40,7 +40,7 @@
 - 💡 **I'm Currently Looking For** opportunities to contribute to innovative projects and grow my skills. If you have a  
   role or project that aligns with my background, feel free to reach out!
 
-- 🔭 I’m currently contributing on [OpenWisp](https://github.com/openwisp)
+- 🔭 I’m currently contributing to [OpenWisp](https://github.com/openwisp)
 
 - 🌱 I’m currently learning **DevOps, Backend**
 
