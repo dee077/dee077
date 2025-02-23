@@ -31,13 +31,20 @@
 </div>
 
 <br><br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dee077&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dee077&theme=radical&hide_border=false)<br/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dee077&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 💡 **I'm Currently Looking For** opportunities to contribute to innovative projects and grow my skills. If you have a  
+- 💡 **I'm Currently Looking for** opportunities to contribute to innovative projects and grow my skills. If you have a  
   role or project that aligns with my background, feel free to reach out!
 
 - 🔭 I’m currently contributing to [OpenWisp](https://github.com/openwisp)
@@ -50,13 +57,10 @@
 
 <br>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/deepanshu-sahu-1a14151a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 
 
-</p>
-<br>
+<a href="https://linkedin.com/in/deepanshu-sahu-1a14151a8" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-linkedin" height="30" width="40" /></a>
+<a href="https://x.com/DeepanshuS2156" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepanshu-twitter" height="30" width="40" /></a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
