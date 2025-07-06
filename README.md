@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Sahu</h1>
 
 <div align="center" style="max-width: 800px; margin: auto;">
-  <p>I'm a passionate software developer with experience in backend and frontend technologies. I have a positive attitude, a love for tech, and am eager to grow and tackle new challenges. My recent projects and roles have deepened my expertise in Python, Django, React, and more 🛠️</p>
+  <p> I'm a passionate software developer with experience in full-stack development using Python, Django, React, Node.js and currently learing Go. I'm currently contributing to Google Summer of Code 2025 at OpenWISP, and I'm driven by a strong love for technology, problem-solving, and continuous learning across backend, frontend, and DevOps domains. 🛠️</p>
 </div>
 
 <br><br>
@@ -30,8 +30,7 @@
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<br><br>
-<img src="https://imgur.com/dBaSKWF.gif" height="10" width="100%">
+<img src="https://imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dee077&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
