@@ -31,7 +31,7 @@
 </div>
 
 <br><br>
-<img src="https://imgur.com/dBaSKWF.gif" height="20" width="100%">
+![line](line.gif)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dee077&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
