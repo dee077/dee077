@@ -32,7 +32,7 @@
 
 <br><br>
 <div align="center"style="marign: auto">
-![line](line.gif)
+   <img src="line.gif" alt="line" width="100%" height="20">
 </div>
 
 # 📊 GitHub Stats:
