@@ -31,7 +31,7 @@
 </div>
 
 <br><br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="10" width="100%">
+<img src="https://imgur.com/dBaSKWF" height="10" width="100%">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dee077&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
