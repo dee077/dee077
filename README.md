@@ -66,7 +66,7 @@
 <a href="https://x.com/DeepanshuS2156" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepanshu-twitter" height="30" width="40" /></a>
 
 <div align="center"style="marign: auto">
-   <img src="line.gif" alt="line" width="100%" height="20">
+   <img src="line.gif" alt="line" width="100%" height="20%">
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
