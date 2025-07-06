@@ -65,7 +65,7 @@
 <a href="https://linkedin.com/in/deepanshu-sahu-1a14151a8" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-linkedin" height="30" width="40" /></a>
 <a href="https://x.com/DeepanshuS2156" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepanshu-twitter" height="30" width="40" /></a>
 
-<br><br>
+
 <div align="center"style="marign: auto">
    <img src="line.gif" alt="line" width="100%" height="20%">
 </div>
@@ -106,8 +106,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
   </a>
 </p>
-
-<br/>
 
 <div align="center"style="marign: auto">
    <img src="line.gif" alt="line" width="100%" height="20">
