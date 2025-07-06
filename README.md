@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Sahu</h1>
 
 <div align="center" style="max-width: 800px; margin: auto;">
-  <p> I'm a passionate software developer with experience in full-stack development using Python, Django, React, Node.js and currently learing Go. I'm currently contributing to Google Summer of Code 2025 at OpenWISP, and I'm driven by a strong love for technology, problem-solving, and continuous learning across backend, frontend, and DevOps domains. 🛠️</p>
+  <p> I'm a passionate software developer with experience in full-stack development using Python, Django, React, Node.js and currently learing Go. I'm currently contributing to Google Summer of Code 2025 at OpenWISP, and I'm driven by a strong love for technology, problem-solving, and continuous learning. 🛠️</p>
 </div>
 
 <br><br>
