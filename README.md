@@ -31,7 +31,9 @@
 </div>
 
 <br><br>
+<div align="center"style="marign: auto">
 ![line](line.gif)
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dee077&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
