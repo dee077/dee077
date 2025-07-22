@@ -92,22 +92,22 @@
 
 ### Contibuted Organizations:
 
-<div>
+<div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="160">
         <a href="https://github.com/openwisp" target="_blank">
-          <img src="https://avatars.githubusercontent.com/openwisp?s=200" alt="OpenWISP"/>
+          <img src="https://avatars.githubusercontent.com/openwisp?s=200" width="80" alt="OpenWISP"/>
         </a>
         <br/>
-        <sub><b>OpenWISP</b></sub>
+        <sub><b style="white-space: nowrap;">OpenWISP</b></sub>
       </td>
-      <td align="center" width="130">
+      <td align="center" width="160">
         <a href="https://github.com/django" target="_blank">
-          <img src="https://avatars.githubusercontent.com/django?s=200" alt="Django"/>
+          <img src="https://avatars.githubusercontent.com/django?s=200" width="80" alt="Django"/>
         </a>
         <br/>
-        <sub><b>Django Software Foundation</b></sub>
+        <sub><b style="white-space: nowrap;">Django Software Foundation</b></sub>
       </td>
     </tr>
   </table>
