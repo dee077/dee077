@@ -85,24 +85,34 @@
    <img src="line.gif" alt="line" width="100%" height="20">
 </div>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 ![Deepanshu's github stats](https://github-readme-stats.vercel.app/api?username=dee077&show_icons=true&theme=tokyonight) <br/>
  
- <div align=center>
-  <p align="center">
-  <a href="https://github.com/openwisp" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/14975417?v=4" width="70" alt="OpenWISP" />
-  </a>
-  <a href="https://github.com/django" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/27804?v=4" width="70" alt="Django" />
-  </a>
-  <a href="https://github.com/python" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/1525981?v=4" width="70" alt="Python" />
-  </a>
-</p>
-  
- </div>
+
+### Contibuted Organizations:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="130">
+        <a href="https://github.com/openwisp" target="_blank">
+          <img src="https://avatars.githubusercontent.com/openwisp?s=200" width="80" alt="OpenWISP"/>
+        </a>
+        <br/>
+        <sub><b>OpenWISP</b></sub>
+      </td>
+      <td align="center" width="130">
+        <a href="https://github.com/django" target="_blank">
+          <img src="https://avatars.githubusercontent.com/django?s=200" width="80" alt="Django"/>
+        </a>
+        <br/>
+        <sub><b>Django Software Foundation</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
  ### 📊 Profile Statistics
 
@@ -111,19 +121,9 @@
 <br>
 
 </div>
- 
- ### ⏱ Streak Stats
- 
- <div align=center>
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dee077&theme=dracula)](https://git.io/streak-stats)
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dee077&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
- </div>
 
 
-### 📊 Most Used Language
+### Most Used Language
 
  <div align=center>
   
