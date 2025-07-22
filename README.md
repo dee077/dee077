@@ -1,6 +1,17 @@
+<!-- ![logo](banner.png)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi 👋, I'm Deepanshu Sahu</h1>
+
+<div align="center" style="max-width: 800px; margin: auto;">
+  <p> I'm a passionate software developer with experience in full-stack development using Python, Django, React, Node.js and currently learing Go. I'm currently contributing to Google Summer of Code 2025 at OpenWISP, and I'm driven by a strong love for technology, problem-solving, and continuous learning. 🛠️</p>
+</div> -->
+
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h3 align="center">
   Hi, I'm Deepanshu Sahu
@@ -42,7 +53,13 @@
    <img src="line.gif" alt="line" width="100%" height="20">
 </div>
 
-# 📊 GitHub Stats: 
+# 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=dee077&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dee077&theme=radical&hide_border=false)<br/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dee077&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+
+ 
  <div align=center>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dee077&theme=github_dark)
