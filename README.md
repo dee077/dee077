@@ -100,14 +100,14 @@
           <img src="https://avatars.githubusercontent.com/openwisp?s=200" width="80" alt="OpenWISP"/>
         </a>
         <br/>
-        <sub><b style="white-space: nowrap;">OpenWISP</b></sub>
+        <sub><b>OpenWISP</b></sub>
       </td>
       <td align="center" width="160">
-        <a href="https://github.com/django" target="_blank">
+        <a href="https://github.com/django/channels" target="_blank">
           <img src="https://avatars.githubusercontent.com/django?s=200" width="80" alt="Django"/>
         </a>
         <br/>
-        <sub><b style="white-space: nowrap;">Django Software Foundation</b></sub>
+        <sub><b>Django Software Foundation</b></sub>
       </td>
     </tr>
   </table>
