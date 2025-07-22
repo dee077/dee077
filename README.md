@@ -67,7 +67,7 @@
 
 
 <div align="center"style="marign: auto">
-   <img src="line.gif" alt="line" width="100%" height="20%">
+   <img src="line.gif" alt="line" width="100%" height="20">
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
