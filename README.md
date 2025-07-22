@@ -90,7 +90,7 @@
 ![Deepanshu's github stats](https://github-readme-stats.vercel.app/api?username=dee077&show_icons=true&theme=tokyonight) <br/>
  
 
-### Contributed Organization:
+### Contributed Organizations:
 
 <div align>
   <table>
@@ -130,8 +130,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dee077&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
-
-<br>
 <br>
 
 <div align="center"style="marign: auto">
