@@ -107,7 +107,7 @@
           <img src="https://avatars.githubusercontent.com/django?s=200" width="80" alt="Django"/>
         </a>
         <br/>
-        <sub><b>Django Software Foundation</b></sub>
+        <sub><b>Django Channels</b></sub>
       </td>
     </tr>
   </table>
