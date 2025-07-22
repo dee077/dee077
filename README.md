@@ -1,12 +1,3 @@
-<!-- ![logo](banner.png)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-<h1 align="center">Hi 👋, I'm Deepanshu Sahu</h1>
-
-<div align="center" style="max-width: 800px; margin: auto;">
-  <p> I'm a passionate software developer with experience in full-stack development using Python, Django, React, Node.js and currently learing Go. I'm currently contributing to Google Summer of Code 2025 at OpenWISP, and I'm driven by a strong love for technology, problem-solving, and continuous learning. 🛠️</p>
-</div> -->
-
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
@@ -20,7 +11,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?lines=Software%20Engineer;Open%20Source%20Contributor;GSoC%202025%20@%20OpenWISP;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20like%20my%20profile!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=500&height=45&pause=1000" />
+  </a>
 </p>
 
 <p align="center">
