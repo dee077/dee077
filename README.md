@@ -86,15 +86,21 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dee077&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=dee077&theme=radical&hide_border=false)<br/>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dee077&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![Deepanshu's github stats](https://github-readme-stats.vercel.app/api?username=dee077&show_icons=true&theme=tokyonight) <br/>
  
  <div align=center>
-  
-![](https://github-readme-stats.vercel.app/api?username=dee077&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+  <p align="center">
+  <a href="https://github.com/openwisp" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/14975417?v=4" width="70" alt="OpenWISP" />
+  </a>
+  <a href="https://github.com/django" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/27804?v=4" width="70" alt="Django" />
+  </a>
+  <a href="https://github.com/python" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/1525981?v=4" width="70" alt="Python" />
+  </a>
+</p>
   
  </div>
 
@@ -186,4 +192,4 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="https://deepanshu-sahu-portfolio.netlify.app/">Deepanshu Sahu</a></p>
+<p align="right" > Created with 🧡 by <a href="https://portfolio2-lime-nine.vercel.app/">Deepanshu Sahu</a></p>
