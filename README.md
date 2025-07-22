@@ -94,15 +94,14 @@
  
  <div align=center>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dee077&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=dee077&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
   
  </div>
 
  ### 📊 Profile Statistics
 
  <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dee077&theme=github_dark)
 <br>
 
 </div>
@@ -135,6 +134,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dee077&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
+
+<br>
+<br>
 
 <div align="center"style="marign: auto">
    <img src="line.gif" alt="line" width="100%" height="20">
