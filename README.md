@@ -95,7 +95,7 @@
 <div>
   <table>
     <tr>
-      <td align="center" width="130">
+      <td align="center">
         <a href="https://github.com/openwisp" target="_blank">
           <img src="https://avatars.githubusercontent.com/openwisp?s=200" alt="OpenWISP"/>
         </a>
