@@ -90,9 +90,9 @@
 ![Deepanshu's github stats](https://github-readme-stats.vercel.app/api?username=dee077&show_icons=true&theme=tokyonight) <br/>
  
 
-### Contibuted Organizations:
+### Contributed Organization:
 
-<div align="center">
+<div align>
   <table>
     <tr>
       <td align="center" width="160">
@@ -114,18 +114,9 @@
 </div>
 
 
- ### 📊 Profile Statistics
-
- <div align=center>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dee077&theme=github_dark)
-<br>
-
-</div>
-
-
 ### Most Used Language
 
- <div align=center>
+ <div>
   
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=dee077&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
