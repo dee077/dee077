@@ -78,8 +78,9 @@
 
 # GitHub Stats:
 
-![Deepanshu's github stats](https://github-readme-stats.vercel.app/api?username=dee077&show_icons=true&theme=tokyonight) <br/>
- 
+![Deepanshu's github stats](https://github-readme-stats.vercel.app/api?username=dee077&show_icons=true&theme=tokyonight) 
+
+<br/> 
 
 ### Contributed Organizations:
 
