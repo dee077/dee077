@@ -52,7 +52,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 
-- 💡 **I'm Currently Looking for** opportunities to contribute to innovative projects and grow my skills. If you have a  
+- 💡 **I'm Currently Looking for** opportunities to contribute to innovative projects and grow my skills. If you have a
   role or project that aligns with my background, feel free to reach out!
 
 - 🔭 I’m currently contributing to [OpenWisp](https://github.com/openwisp)
@@ -78,9 +78,9 @@
 
 # GitHub Stats:
 
-![Deepanshu's github stats](https://github-readme-stats.vercel.app/api?username=dee077&show_icons=true&theme=radical) 
+![Deepanshu's github stats](https://nirzak-streak-stats.vercel.app/?user=dee077&theme=dark&hide_border=false)
 
-<br/> 
+<br/>
 
 ### Contributed Organizations:
 
@@ -109,19 +109,19 @@
 ### Most Used Language
 
  <div>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=dee077&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
+
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=dee077&show_icons=true&locale=en&layout=compact&theme=radical)]()
+
  </div>
- 
- ### 🏆 Profile Trophies
+
+ <!-- ### 🏆 Profile Trophies
 
 
 <div align=center>
- 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=dee077&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
+
+</div> -->
 <br>
 
 <div align="center"style="marign: auto">
