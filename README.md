@@ -76,7 +76,22 @@
    <img src="line.gif" alt="line" width="100%" height="20">
 </div>
 
+# Accomplishments: 
+
+[![Static Badge](https://img.shields.io/badge/Google_Summer_of_Code-2025_Contributor-F4B400?style=for-the-badge&logo=googlesummerofcode)
+](https://openwisp.org/blog/gsoc-2025-better-map-ux-indoor-mobile-linkable-urls/)
+
+<!--  [![Static Badge](https://img.shields.io/badge/KWin_Feature_Maintainer-Game_Controller_Input-1D99F3?style=for-the-badge&logo=kde)](https://invent.kde.org/plasma/kwin) -->
+
 # GitHub Stats:
+
+<!-- Dark mode -->
+<img height="200" align="top"
+  src="https://readmestats.999857.xyz/api?username=dee077&show_icons=true&hide_border=true&theme=slateorange#gh-dark-mode-only" />
+
+<img height="200" align="top"
+  src="https://readmestats.999857.xyz/api/top-langs/?username=dee077&hide=objective-c,c%23,Roff,shell,perl,shaderlab,makefile,xslt,m4,cmake,asp.net&hide_progress=true&show_icons=true&hide_border=true&theme=slateorange#gh-dark-mode-only" />
+
 
 ![Deepanshu's github stats](https://nirzak-streak-stats.vercel.app/?user=dee077&theme=dark&hide_border=false)
 
@@ -106,13 +121,13 @@
 </div>
 
 
-### Most Used Language
+<!-- ### Most Used Language
 
  <div>
 
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=dee077&show_icons=true&locale=en&layout=compact&theme=radical)]()
 
- </div>
+ </div> -->
 
  <!-- ### 🏆 Profile Trophies
 
