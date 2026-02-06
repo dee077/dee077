@@ -76,7 +76,6 @@
    <img src="line.gif" alt="line" width="100%" height="20">
 </div>
 
-# Accomplishments: 
 
 [![Static Badge](https://img.shields.io/badge/Google_Summer_of_Code-2025_Contributor-F4B400?style=for-the-badge&logo=googlesummerofcode)
 ](https://openwisp.org/blog/gsoc-2025-better-map-ux-indoor-mobile-linkable-urls/)
