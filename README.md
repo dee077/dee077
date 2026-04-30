@@ -19,6 +19,7 @@
 </p>
 
 <br>
+<br>
 
 <table align="center">
   <tr>
@@ -33,14 +34,16 @@
 
 <br>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50"/></td>
+  </tr>
+</table>
 
 <br>
 <br>
