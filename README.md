@@ -18,21 +18,7 @@
   <a href="https://github.com/dee077/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=dee077.dee077"></a>
 </p>
 
-<br>
-<br>
-
-<table align="center">
-  <tr>
-    <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/></td>
-    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/></td>
-    <td><img src="https://techstack-generator.vercel.app/django-icon.svg" width="50"/></td>
-    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/></td>
-    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/></td>
-    <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50"/></td>
-  </tr>
-</table>
-
-<br>
+<br><br>
 
 <table align="center">
   <tr>
@@ -42,6 +28,14 @@
     <td><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="50"/></td>
     <td><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50"/></td>
     <td><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/django-icon.svg" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/></td>
+    <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50"/></td>
   </tr>
 </table>
 
