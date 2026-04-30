@@ -30,11 +30,11 @@
     <td><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50"/></td>
   </tr>
   <tr>
-    <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/></td>
     <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/></td>
     <td><img src="https://techstack-generator.vercel.app/django-icon.svg" width="50"/></td>
     <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/></td>
     <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/></td>
+     <td><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50"/></td>
     <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50"/></td>
   </tr>
 </table>
