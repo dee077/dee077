@@ -21,14 +21,26 @@
 <br><br>
 
 
-<table align="center">
-  <tr>
-    <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/></td>
-    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/></td>
-    <td><img src="https://techstack-generator.vercel.app/django-icon.svg" width="50"/></td>
-    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/></td>
-    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/></td>
-    <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50"/></td>
+<table align="center" style="border:none;">
+  <tr style="border:none;">
+    <td style="border:none;">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/>
+    </td>
+    <td style="border:none;">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/>
+    </td>
+    <td style="border:none;">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50"/>
+    </td>
+    <td style="border:none;">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/>
+    </td>
+    <td style="border:none;">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/>
+    </td>
+    <td style="border:none;">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50"/>
+    </td>
   </tr>
 </table>
 
