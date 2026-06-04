@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;GSoC%202025%20Contributor%20%40%20OpenWISP;OpenWISP%20Contributor%202025%202026;Open%20Source%20Contributor;Feel%20free%20to%20look%20around%20%F0%9F%91%80&font=Fira%20Code&center=true&width=700&height=45">
+     <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;GSoC%202025,26%20@%20OpenWISP;Open%20Source%20Contributor;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20hel    p!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45">
   </a>
 </p>
 
