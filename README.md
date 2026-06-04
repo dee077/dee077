@@ -89,8 +89,7 @@
 <img height="200" align="top"
   src="https://readmestats.999857.xyz/api/top-langs/?username=dee077&hide=objective-c,c%23,Roff,shell,perl,shaderlab,makefile,xslt,m4,cmake,asp.net&hide_progress=true&show_icons=true&hide_border=true&theme=slateorange#gh-dark-mode-only" />
 
-
-![Deepanshu's github stats](https://nirzak-streak-stats.vercel.app/?user=dee077&theme=dark&hide_border=false)
+<!-- ![Deepanshu's github stats](https://nirzak-streak-stats.vercel.app/?user=dee077&theme=dark&hide_border=false) -->
 
 <br/>
 
