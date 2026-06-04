@@ -55,7 +55,7 @@
 
 - 🔭 I’m currently contributing to [OpenWisp](https://github.com/openwisp)
 
-- 🌱 I’m currently learning **Go, DevOps**
+- 🌱 I’m currently learning **Go, Kubernetes and DevOps**
 
 - 📫 How to reach me **deepanshu.sahu2811@gmail.com**
 
